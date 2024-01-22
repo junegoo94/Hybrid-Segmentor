@@ -1,6 +1,6 @@
 ## Hybrid-Segmentor: A Hybrid Approach to Automated Damage Detection on Civil Infrastructure
 
-![](./figures/architecture.jpg)
+![](./figures/model_architecture.png)
 
  - **Dataset**:
 

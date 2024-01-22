@@ -6,7 +6,7 @@
 
 We created a benchmark dataset called CrackVision12K, which contains cracks. The dataset is developed with 13 publicly available datasets that have been refined using image processing techniques.
 
-**Please note that we own the copyrights to part of original crack images and all annotated maps. Their use is RESTRICTED to non-commercial research and educational purposes.**
+**Please note that the use of our dataset is RESTRICTED to non-commercial research and educational purposes.**
 
 You can download the dataset from [the link](https://onedrive.live.com/?authkey=%21AAqG9xQnIlHYoyo&cid=ACF4A32C1F8162D1&id=ACF4A32C1F8162D1%21163379&parId=root&o=OneUp).
 |Folder|Sub-Folder|Description|
@@ -24,4 +24,4 @@ If you use this dataset for your research, please cite our paper:
 
 ```
 
-If you have any questions, please contact me: yahui.cvrs AT gmail.com without hesitation.
+If you have any questions, please contact me: june.goo.21 AT ucl.ac.uk without hesitation.

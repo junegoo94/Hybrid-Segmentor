@@ -24,4 +24,4 @@ If you use this dataset for your research, please cite our paper:
 
 ```
 
-If you have any questions, please contact me: june.goo.21 AT ucl.ac.uk without hesitation.
+If you have any questions, please contact me: june.goo.21 @ ucl.ac.uk without hesitation.

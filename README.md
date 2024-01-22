@@ -8,7 +8,7 @@ We created a benchmark dataset called CrackVision12K, which contains cracks. The
 
 **Please note that the use of our dataset is RESTRICTED to non-commercial research and educational purposes.**
 
-You can download the dataset from [the link](https://onedrive.live.com/?authkey=%21AAqG9xQnIlHYoyo&cid=ACF4A32C1F8162D1&id=ACF4A32C1F8162D1%21163379&parId=root&o=OneUp).
+You can download the dataset from [this link](https://onedrive.live.com/?authkey=%21AAqG9xQnIlHYoyo&cid=ACF4A32C1F8162D1&id=ACF4A32C1F8162D1%21163379&parId=root&o=OneUp).
 |Folder|Sub-Folder|Description|
 |:----|:-----|:-----|
 |`train`|IMG / GT|RGB images and binary annotation for training|

@@ -15,10 +15,11 @@ You can download the dataset from [this link](https://onedrive.live.com/?authkey
 |`test`|IMG / GT|RGB images and binary annotation for testing|
 |`val`|IMG / GT|RGB images and binary annotation for validation|
 
- - **Model**
- You can download the model weights from [this link](https://1drv.ms/u/s!AtFigR8so_SspuEIg4jDbJNfgGGjyA?e=RNcOGu)
+ - **Model**:
 
- - **Reference:**
+You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms/u/s!AtFigR8so_SspuEIg4jDbJNfgGGjyA?e=RNcOGu)
+
+ - **Reference**:
 
 If you use this dataset for your research, please cite our paper:
 

@@ -26,7 +26,6 @@ You can download the dataset from [this link](https://onedrive.live.com/?authkey
 
 
  - **Hybrid-Segmentor Reference**:
-----------------------------------------------------------------------------------------------------------
 ```
 
 ```

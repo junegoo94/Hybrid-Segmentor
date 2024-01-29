@@ -6,11 +6,8 @@
 You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms/u/s!AtFigR8so_SspuEIg4jDbJNfgGGjyA?e=RNcOGu)
 #### If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
 
-
-
 ## 2. Refined Dataset
 The refined dataset is developed with 13 publicly available datasets that have been refined using image processing techniques.
-
 **Please note that the use of our dataset is RESTRICTED to non-commercial research and educational purposes.**
 
 You can download the dataset from [this link](https://onedrive.live.com/?authkey=%21AAqG9xQnIlHYoyo&cid=ACF4A32C1F8162D1&id=ACF4A32C1F8162D1%21163379&parId=root&o=OneUp).
@@ -22,9 +19,12 @@ You can download the dataset from [this link](https://onedrive.live.com/?authkey
 
 #### To download the dataset from the link, please cite "Dataset Reference" below.
 
+## 3. Set-Up
+**Training**
 
+**Testing**
 
-## Reference List
+## Citaiton
  - **Hybrid-Segmentor Reference**:
 ```
 

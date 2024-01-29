@@ -21,9 +21,16 @@ You can download the dataset from [this link](https://onedrive.live.com/?authkey
 
 ## 3. Set-Up
 **Training**
+Before training, change variables such as dataset path, batch size, etc in config.py. 
+```
+python trainer.py
+```
 
 **Testing**
-
+Before testing, change the model name and output folder path.
+```
+python test.py
+```
 ## Citaiton
  - **Hybrid-Segmentor Reference**:
 ```

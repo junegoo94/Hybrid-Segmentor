@@ -1,6 +1,6 @@
 ## Hybrid-Segmentor: A Hybrid Approach to Automated Damage Detection on Civil Infrastructure
 
-## Model Architecture
+## 1. Model Architecture
 ![](./figures/model_architecture.png)
 
 You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms/u/s!AtFigR8so_SspuEIg4jDbJNfgGGjyA?e=RNcOGu)
@@ -8,7 +8,7 @@ You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms
 
 
 
-## Refined Dataset
+## 2. Refined Dataset
 The refined dataset is developed with 13 publicly available datasets that have been refined using image processing techniques.
 
 **Please note that the use of our dataset is RESTRICTED to non-commercial research and educational purposes.**

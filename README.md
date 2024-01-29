@@ -26,7 +26,16 @@ If you use this dataset for your research, please cite our paper:
 
 
 ```
-
+@article{AEL_dataset,
+  title={Automatic crack detection on two-dimensional pavement images: An algorithm based on minimal path selection},
+  author={Amhaz, Rabih and Chambon, Sylvie and Idier, J{\'e}r{\^o}me and Baltazart, Vincent},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={17},
+  number={10},
+  pages={2718--2729},
+  year={2016},
+  publisher={IEEE}
+}
 ```
 
 If you have any questions, please contact me: june.goo.21 @ ucl.ac.uk without hesitation.

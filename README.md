@@ -6,9 +6,14 @@
 
 You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms/u/s!AtFigR8so_SspuEIg4jDbJNfgGGjyA?e=RNcOGu)
 
- - **Dataset**:
+If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
+ - **Hybrid-Segmentor Reference**:
+'''
 
-We created a benchmark dataset called CrackVision12K, which contains cracks. The dataset is developed with 13 publicly available datasets that have been refined using image processing techniques.
+'''
+ - **Refined Dataset**:
+
+The refined dataset is developed with 13 publicly available datasets that have been refined using image processing techniques.
 
 **Please note that the use of our dataset is RESTRICTED to non-commercial research and educational purposes.**
 
@@ -19,12 +24,9 @@ You can download the dataset from [this link](https://onedrive.live.com/?authkey
 |`test`|IMG / GT|RGB images and binary annotation for testing|
 |`val`|IMG / GT|RGB images and binary annotation for validation|
 
+To download the dataset from the link, please cite "Dataset Reference" below.
 
- - **Reference**:
-
-If you use this dataset for your research, please cite our paper:
-
-
+ - **Dataset Reference**:
 ```
 1. Aigle-RN / ESAR / LCMS Datasets
 @article{AEL_dataset,

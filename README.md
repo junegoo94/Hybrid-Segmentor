@@ -1,6 +1,6 @@
 ## Hybrid-Segmentor: A Hybrid Approach to Automated Damage Detection on Civil Infrastructure
 
-## Model
+## Model Architecture
 ![](./figures/model_architecture.png)
 
 You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms/u/s!AtFigR8so_SspuEIg4jDbJNfgGGjyA?e=RNcOGu)

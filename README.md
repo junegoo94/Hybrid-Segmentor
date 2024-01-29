@@ -6,11 +6,8 @@
 
 You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms/u/s!AtFigR8so_SspuEIg4jDbJNfgGGjyA?e=RNcOGu)
 
-If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
- - **Hybrid-Segmentor Reference**:
-'''
+### If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
 
-'''
  - **Refined Dataset**:
 
 The refined dataset is developed with 13 publicly available datasets that have been refined using image processing techniques.
@@ -24,8 +21,12 @@ You can download the dataset from [this link](https://onedrive.live.com/?authkey
 |`test`|IMG / GT|RGB images and binary annotation for testing|
 |`val`|IMG / GT|RGB images and binary annotation for validation|
 
-To download the dataset from the link, please cite "Dataset Reference" below.
+### To download the dataset from the link, please cite "Dataset Reference" below.
 
+ - **Hybrid-Segmentor Reference**:
+```
+
+```
  - **Dataset Reference**:
 ```
 1. Aigle-RN / ESAR / LCMS Datasets

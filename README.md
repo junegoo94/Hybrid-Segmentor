@@ -37,7 +37,7 @@ python test.py
 
 ```
  - **Dataset Reference**:
-1. Aigle-RN / ESAR / LCMS Datasets[Dataset Link](https://www.irit.fr/~Sylvie.Chambon/Crack_Detection_Database.html)
+1. Aigle-RN / ESAR / LCMS Datasets [Dataset Link](https://www.irit.fr/~Sylvie.Chambon/Crack_Detection_Database.html)
 ```
 @article{AEL_dataset,
   title={Automatic crack detection on two-dimensional pavement images: An algorithm based on minimal path selection},
@@ -50,8 +50,8 @@ python test.py
   publisher={IEEE}
 }
 ```
+2. SDNet2018 Datasets [Dataset Link](https://digitalcommons.usu.edu/all_datasets/48/)
 ```
-2. SDNet2018 Datasets
 @article{sdnet2018,
   title={SDNET2018: A concrete crack image dataset for machine learning applications},
   author={Maguire, Marc and Dorafshan, Sattar and Thomas, Robert J},
@@ -59,8 +59,8 @@ python test.py
   publisher={Utah State University}
 }
 ```
+3. Masonry Datasets [Dataset Link](https://github.com/dimitrisdais/crack_detection_CNN_masonry)
 ```
-3. Masonry Datasets
 @article{masonry_dataset,
   author = {Dais, Dimitris and Bal, Ihsan Engin and Smyrou, Eleni and Sarhosis, Vasilis},
   doi = {10.1016/j.autcon.2021.103606},
@@ -72,8 +72,8 @@ python test.py
   year = {2021}
 }
 ```
+4. Crack500 Dataset [Dataset Link](https://github.com/fyangneil/pavement-crack-detection)
 ```
-4. Crack500 Dataset
 @inproceedings{crack500_dataset,
   title={Road crack detection using deep convolutional neural network},
   author={Zhang, Lei and Yang, Fan and Zhang, Yimin Daniel and Zhu, Ying Julie},
@@ -83,8 +83,8 @@ python test.py
   organization={IEEE}
 }
 ```
+5. CrackLS315 / CRKWH100 / CrackTree260 / Stone331 Datasets [Github Link](https://github.com/qinnzou/DeepCrack) [Direct Link-passcodes: zfoo](https://pan.baidu.com/s/1PWiBzoJlc8qC8ffZu2Vb8w)
 ```
-5. CrackLS315 / CRKWH100 / CrackTree260 / Stone331 Datasets
 @article{Deep_crack_crackLS315,
   title={Deepcrack: Learning Hierarchical Convolutional Features for Crack Detection},
   author={Zou, Qin and Zhang, Zheng and Li, Qingquan and Qi, Xianbiao and Wang, Qian and Wang, Song},
@@ -95,8 +95,8 @@ python test.py
   year={2019},
 }
 ```
+6. DeepCrack Dataset [Dataset Link](https://github.com/yhlleo/DeepCrack)
 ```
-6. DeepCrack Dataset
 @article{deepcrack_dataset,
 title={DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation},
 author={Liu, Yahui and Yao, Jian and Lu, Xiaohu and Xie, Renping and Li, Li},
@@ -107,28 +107,26 @@ year={2019},
 doi={10.1016/j.neucom.2019.01.036}
 }
 ```
+7.1 GAPS384 7.2 GAPs (Original Dataset and paper) [GAPS384 Dataset Link](https://github.com/fyangneil/pavement-crack-detection) [GAPs Dataset Link](https://www.tu-ilmenau.de/neurob/data-sets-code/german-asphalt-pavement-distress-dataset-gaps)
 ```
-7-1. GAPS384
-@article{FPHBN_gaps384, title={Feature Pyramid and Hierarchical Boosting Network for Pavement Crack Detection}, author={Yang, Fan and Zhang, Lei and Yu, Sijia and Prokhorov, Danil and Mei, Xue and Ling, Haibin}, journal={IEEE Transactions on Intelligent Transportation Systems}, year={2019}, publisher={IEEE} }
+@article{FPHBN_gaps384,
+title={Feature Pyramid and Hierarchical Boosting Network for Pavement Crack Detection},
+author={Yang, Fan and Zhang, Lei and Yu, Sijia and Prokhorov, Danil and Mei, Xue and Ling, Haibin},
+journal={IEEE Transactions on Intelligent Transportation Systems}, year={2019}, publisher={IEEE} }
 
-7.2 GAPS (original dataset) 
-@inproceedings{GAPS_data_original, title={How to Get Pavement Distress Detection Ready for Deep Learning? A Systematic Approach.}, author={Eisenbach, Markus and Stricker, Ronny and Seichter, Daniel and Amende, Karl and Debes, Klaus and Sesselmann, Maximilian and Ebersbach, Dirk and Stoeckert, Ulrike and Gross, Horst-Michael}, booktitle={International Joint Conference on Neural Networks (IJCNN)}, pages={2039--2047}, year={2017} }
+@inproceedings{GAPS_data_original,
+title={How to Get Pavement Distress Detection Ready for Deep Learning? A Systematic Approach.},
+author={Eisenbach, Markus and Stricker, Ronny and Seichter, Daniel and Amende, Karl and Debes, Klaus and Sesselmann, Maximilian and Ebersbach, Dirk and Stoeckert, Ulrike and Gross, Horst-Michael},
+booktitle={International Joint Conference on Neural Networks (IJCNN)}, pages={2039--2047}, year={2017} }
 ```
+CFD Dataset [Dataset Link](https://github.com/cuilimeng/CrackForest-dataset)
 ```
-8.1 CFD Dataset
 @article{CFD1,
 title={Automatic road crack detection using random structured forests},
 author={Shi, Yong and Cui, Limeng and Qi, Zhiquan and Meng, Fan and Chen, Zhensong},
-journal={IEEE Transactions on Intelligent Transportation Systems},
-volume={17},
-number={12},
-pages={3434--3445},
-year={2016},
-publisher={IEEE}
-}
-```
-```
-8.2 CFD Dataset
+journal={IEEE Transactions on Intelligent Transportation Systems},volume={17},number={12},
+pages={3434--3445},year={2016},publisher={IEEE}}
+
 @inproceedings{CFD2,
 title={Pavement Distress Detection Using Random Decision Forests},
 author={Cui, Limeng and Qi, Zhiquan and Chen, Zhensong and Meng, Fan and Shi, Yong},

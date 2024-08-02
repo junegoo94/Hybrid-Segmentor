@@ -1,4 +1,4 @@
-## Hybrid-Segmentor: A Hybrid Approach to Automated Damage Detection on Civil Infrastructure
+## Hybrid-Segmentor: A Hybrid Approach for Automated Crack Segmentation and Infrastructure Inspection
 
 ## 1. Model Architecture
 ![](./figures/model_architecture.png)

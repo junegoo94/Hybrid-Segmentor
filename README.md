@@ -34,14 +34,7 @@ python test.py
 ## Citaiton
  - **Hybrid-Segmentor Reference**:
 ```
-@unpublished{Hybrid-Segmentor,
-author = {Goo, June Moh and Artusi, Alessandro and Milidonis, Xenios and Ciliberto, Carlo},
-doi = {10.36227/techrxiv.170775714.48894818/v1},
-publisher = {TechRxiv. Preprint, Institute of Electrical and Electronics Engineers (IEEE)},
-title = {Hybrid-Segmentor: A Hybrid Approach to Automated Damage Detection on Civil Infrastructure.},
-url = {http://dx.doi.org/10.36227/techrxiv.170775714.48894818/v1},
-year = {2024}
-}
+
 ```
  - **Dataset Reference**:
 1. Aigle-RN / ESAR / LCMS Datasets [Dataset Link](https://www.irit.fr/~Sylvie.Chambon/Crack_Detection_Database.html)

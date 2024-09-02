@@ -3,7 +3,7 @@
 ## 1. Model Architecture
 ![](./figures/model_architecture.png)
 
-You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms/u/s!AtFigR8so_SspuEIg4jDbJNfgGGjyA?e=RNcOGu)
+You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms/u/s!AtFigR8so_Ssr74TeEfNbT0255DU3w?e=yq2xul)
 #### If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
 
 ## 2. Refined Dataset

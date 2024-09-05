@@ -17,7 +17,7 @@ You can download the dataset from [this link](https://1drv.ms/u/s!AtFigR8so_Ssr7
 |`test`|IMG / GT|RGB images and binary annotation for testing|
 |`val`|IMG / GT|RGB images and binary annotation for validation|
 
-#### To download the dataset from the link, please cite "Dataset Reference" below.
+#### To download the dataset from the link, please cite "Hybrid-Segmentor & CrackVision12K" below.
 
 ## 3. Set-Up
 **Training**

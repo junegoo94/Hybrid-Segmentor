@@ -6,7 +6,7 @@
 You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms/u/s!AtFigR8so_Ssr74TeEfNbT0255DU3w?e=yq2xul)
 #### If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
 
-## 2. Refined Dataset
+## 2. Refined Dataset (CRACKVISION12K)
 The refined dataset is developed with 13 publicly available datasets that have been refined using image processing techniques.
 **Please note that the use of our dataset is RESTRICTED to non-commercial research and educational purposes.**
 

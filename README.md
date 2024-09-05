@@ -3,14 +3,14 @@
 ## 1. Model Architecture
 ![](./figures/model_architecture.png)
 
-You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms/u/s!AtFigR8so_Ssr74TeEfNbT0255DU3w?e=yq2xul)
+You can download Hybrid-Segmentor model weights from this [LINK](https://1drv.ms/u/s!AtFigR8so_Ssr74TeEfNbT0255DU3w?e=yq2xul)
 #### If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
 
 ## 2. Refined Dataset (CrackVision12K)
 The refined dataset is developed with 13 publicly available datasets that have been refined using image processing techniques.
 **Please note that the use of our dataset is RESTRICTED to non-commercial research and educational purposes.**
 
-You can download the dataset from [this link](https://1drv.ms/u/s!AtFigR8so_Ssr74aBKrrJ0ifkWLZpg?e=57fmSb).
+You can download the dataset from this [LINK](https://1drv.ms/u/s!AtFigR8so_Ssr74aBKrrJ0ifkWLZpg?e=57fmSb).
 |Folder|Sub-Folder|Description|
 |:----|:-----|:-----|
 |`train`|IMG / GT|RGB images and binary annotation for training|

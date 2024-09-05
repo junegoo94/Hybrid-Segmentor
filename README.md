@@ -33,7 +33,8 @@ python test.py
 ```
 ## Citaiton
  - **Hybrid-Segmentor & CrackVision12K Reference**:
-   If you use our model or dataset, please cite the following:
+   
+   ***If you use our model or dataset, please cite the following***:
 ```
 @misc{goo2024hybridsegmentorhybridapproachautomated,
       title={Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure}, 

@@ -10,7 +10,7 @@ You can download Hybrid-Segmentor model weights from [this link](https://1drv.ms
 The refined dataset is developed with 13 publicly available datasets that have been refined using image processing techniques.
 **Please note that the use of our dataset is RESTRICTED to non-commercial research and educational purposes.**
 
-You can download the dataset from [this link](https://1drv.ms/u/s!AtFigR8so_Ssr74W6k-rHZnLFvpMQg?e=ZDs02S).
+You can download the dataset from [this link](https://1drv.ms/u/s!AtFigR8so_Ssr74aBKrrJ0ifkWLZpg?e=57fmSb).
 |Folder|Sub-Folder|Description|
 |:----|:-----|:-----|
 |`train`|IMG / GT|RGB images and binary annotation for training|

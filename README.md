@@ -13,24 +13,24 @@
    
 **All Models Folder Structure:**
 ```
-Model_weights
+Model_weights.zip
   ├── ablation_encoder
   │     ├── transformer_path.ckpt
   │     └── CNN_path.ckpt
   │
-  ├── ablation_loss
-  │     ├── hybrid_segmentor_BCE.ckpt
-  │     ├── hybrid_segmentor_BCE_1.ckpt
-  │     ├── hybrid_segmentor_BCE_2.ckpt
-  │     ├── hybrid_segmentor_BCE_3.ckpt
-  │     ├── hybrid_segmentor_BCE_4.ckpt
-  │     ├── hybrid_segmentor_BCE_5.ckpt
-  │     ├── hybrid_segmentor_BCE_6.ckpt
-  │     ├── hybrid_segmentor_BCE_7.ckpt
-  │     ├── hybrid_segmentor_BCE_8.ckpt
-  │     ├── hybrid_segmentor_BCE_9.ckpt
-  │     ├── hybrid_segmentor_DICE.ckpt
-  │     └── hybrid_segmentor_recall.ckpt
+  └── ablation_loss
+        ├── hybrid_segmentor_BCE.ckpt
+        ├── hybrid_segmentor_BCE_1.ckpt
+        ├── hybrid_segmentor_BCE_2.ckpt (BCE-DICE loss with λ = 0.2 )
+        ├── hybrid_segmentor_BCE_3.ckpt
+        ├── hybrid_segmentor_BCE_4.ckpt
+        ├── hybrid_segmentor_BCE_5.ckpt
+        ├── hybrid_segmentor_BCE_6.ckpt
+        ├── hybrid_segmentor_BCE_7.ckpt
+        ├── hybrid_segmentor_BCE_8.ckpt
+        ├── hybrid_segmentor_BCE_9.ckpt
+        ├── hybrid_segmentor_DICE.ckpt
+        └── hybrid_segmentor_recall.ckpt
 ```
 #### If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
 

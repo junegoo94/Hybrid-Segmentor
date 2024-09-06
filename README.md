@@ -15,8 +15,8 @@
 ```
 Model_weights.zip
   ├── ablation_encoder
-  │     ├── transformer_path.ckpt
-  │     └── CNN_path.ckpt
+  │     ├── transformer_path.ckpt (Trained only transformer path)
+  │     └── CNN_path.ckpt         (Trained only CNN path)
   │
   └── ablation_loss
         ├── hybrid_segmentor_DICE.ckpt  (Dice Loss) -> λ = 0

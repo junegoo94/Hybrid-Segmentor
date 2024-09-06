@@ -8,7 +8,31 @@
 
 **Hybrid-Segmentor model weight**: 
 
-Downlaod Best Model: [Best model_weight](https://1drv.ms/u/s!AtFigR8so_Ssr74icViwvNvnpzdbVg?e=JB4dEO)
+1. Best Model: [Best model_weight](https://1drv.ms/u/s!AtFigR8so_Ssr74icViwvNvnpzdbVg?e=JB4dEO)
+2. All Models: [Models_weight folder](https://1drv.ms/u/s!AtFigR8so_Ssr74icViwvNvnpzdbVg?e=JB4dEO)
+**All Models Folder Structure:**
+```
+  ├── data_processor.py
+  ├── cv2geojson.py
+  ├── noise_addition.py
+  ├── total_iou.py
+  ├── iou_calculator.py
+  ├── save_png.py
+  ├── save_results.py
+  └── SpaceNet8
+  │   ├── Germany_Training_Public
+  │       ├── annotations
+  │       ├── POST-event
+  │       ├── PRE-event
+  │       ├── Germany_Training_Public_label_image_mapping.csv
+  │       └── Germany_Training_Public_reference.csv
+  │   ├── Louisiana-East_Training_Public
+  │       ├── annotations
+  │       ├── POST-event
+  │       ├── PRE-event
+  │       ├── Louisiana-East_Training_Public_label_image_mapping.csv
+  │       └── Louisiana-East_Training_Public_reference.csv
+```
 #### If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
 
 ## 2. Refined Dataset (CrackVision12K)

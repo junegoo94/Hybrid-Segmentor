@@ -6,7 +6,9 @@
 ## 1. Model Architecture
 ![](./figures/model_architecture.png)
 
-**Hybrid-Segmentor model weight**: [model_weight](https://1drv.ms/u/s!AtFigR8so_Ssr74TeEfNbT0255DU3w?e=yq2xul)
+**Hybrid-Segmentor model weight**: 
+
+Downlaod Best Model: [Best model_weight](https://1drv.ms/u/s!AtFigR8so_Ssr74icViwvNvnpzdbVg?e=JB4dEO)
 #### If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
 
 ## 2. Refined Dataset (CrackVision12K)

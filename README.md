@@ -60,8 +60,8 @@ Before testing, change the model name and output folder path.
 python test.py
 ```
 ## 4. Results
-
-
+![](./figures/figure_5.png)
+Example crack images segmented by our model and benchmarked models. The red ovals highlight the areas where our model outperforms other benchmarked models. In examples without red ovals, such as (F) and (H), our model demonstrates strong performance across overall structures.
 
 ## Citaiton
  - **Hybrid-Segmentor & CrackVision12K Reference**:

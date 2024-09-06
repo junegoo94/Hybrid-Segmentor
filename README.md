@@ -9,29 +9,28 @@
 **Hybrid-Segmentor model weight**: 
 
 1. Best Model: [Best model_weight](https://1drv.ms/u/s!AtFigR8so_Ssr74icViwvNvnpzdbVg?e=JB4dEO)
-2. All Models: [Models_weight folder](https://1drv.ms/u/s!AtFigR8so_Ssr74icViwvNvnpzdbVg?e=JB4dEO)
+2. All Models: [Models weight folder](https://1drv.ms/u/s!AtFigR8so_Ssr74icViwvNvnpzdbVg?e=JB4dEO)
+   
 **All Models Folder Structure:**
 ```
-  ├── data_processor.py
-  ├── cv2geojson.py
-  ├── noise_addition.py
-  ├── total_iou.py
-  ├── iou_calculator.py
-  ├── save_png.py
-  ├── save_results.py
-  └── SpaceNet8
-  │   ├── Germany_Training_Public
-  │       ├── annotations
-  │       ├── POST-event
-  │       ├── PRE-event
-  │       ├── Germany_Training_Public_label_image_mapping.csv
-  │       └── Germany_Training_Public_reference.csv
-  │   ├── Louisiana-East_Training_Public
-  │       ├── annotations
-  │       ├── POST-event
-  │       ├── PRE-event
-  │       ├── Louisiana-East_Training_Public_label_image_mapping.csv
-  │       └── Louisiana-East_Training_Public_reference.csv
+Model_weights
+  ├── ablation_encoder
+  │     ├── transformer_path.ckpt
+  │     └── CNN_path.ckpt
+  │
+  └── ablation_loss
+  │     ├── hybrid_segmentor_BCE.ckpt
+  │     ├── hybrid_segmentor_BCE_1.ckpt
+  │     ├── hybrid_segmentor_BCE_2.ckpt
+  │     ├── hybrid_segmentor_BCE_3.ckpt
+  │     ├── hybrid_segmentor_BCE_4.ckpt
+  │     ├── hybrid_segmentor_BCE_5.ckpt
+  │     ├── hybrid_segmentor_BCE_6.ckpt
+  │     ├── hybrid_segmentor_BCE_7.ckpt
+  │     ├── hybrid_segmentor_BCE_8.ckpt
+  │     ├── hybrid_segmentor_BCE_9.ckpt
+  │     ├── hybrid_segmentor_DICE.ckpt
+  │     └── hybrid_segmentor_recall.ckpt
 ```
 #### If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
 

@@ -18,7 +18,7 @@ Model_weights
   │     ├── transformer_path.ckpt
   │     └── CNN_path.ckpt
   │
-  └── ablation_loss
+  ├── ablation_loss
   │     ├── hybrid_segmentor_BCE.ckpt
   │     ├── hybrid_segmentor_BCE_1.ckpt
   │     ├── hybrid_segmentor_BCE_2.ckpt

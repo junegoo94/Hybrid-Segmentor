@@ -59,6 +59,10 @@ Before testing, change the model name and output folder path.
 ```
 python test.py
 ```
+## 4. Results
+
+
+
 ## Citaiton
  - **Hybrid-Segmentor & CrackVision12K Reference**:
    

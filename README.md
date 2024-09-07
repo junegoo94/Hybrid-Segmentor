@@ -14,6 +14,7 @@
 **All weights Folder Structure:**
 ```
 model_weights.zip
+  │
   ├── ablation_encoder
   │     ├── transformer_path.ckpt (Trained only transformer path)
   │     └── CNN_path.ckpt         (Trained only CNN path)

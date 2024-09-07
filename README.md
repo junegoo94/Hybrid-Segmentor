@@ -79,6 +79,8 @@ Example crack images segmented by our model and benchmarked models. The red oval
       url={https://arxiv.org/abs/2409.02866}, 
 }
 ```
+
+---
  - **Dataset Reference**:
 1. Aigle-RN / ESAR / LCMS Datasets [Dataset Link](https://www.irit.fr/~Sylvie.Chambon/Crack_Detection_Database.html)
 ```

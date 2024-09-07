@@ -64,7 +64,7 @@ python test.py
 ![](./figures/figure_5.png)
 Example crack images segmented by our model and benchmarked models. The red ovals highlight the areas where our model outperforms other benchmarked models. In examples without red ovals, such as (F) and (H), our model demonstrates strong performance across overall structures.
 
-## Citaiton
+## Citaitons
  - **Hybrid-Segmentor & CrackVision12K Reference**:
    
    ***If you use our model or dataset, please cite the following***:
@@ -81,7 +81,7 @@ Example crack images segmented by our model and benchmarked models. The red oval
 ```
 
 ---
- - **Dataset Reference**:
+ - **Sub-Dataset Reference**:
 1. Aigle-RN / ESAR / LCMS Datasets [Dataset Link](https://www.irit.fr/~Sylvie.Chambon/Crack_Detection_Database.html)
 ```
 @article{AEL_dataset,

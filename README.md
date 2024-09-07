@@ -20,18 +20,18 @@ model_weights.zip
   │     └── CNN_path.ckpt         (Trained only CNN path)
   │
   └── ablation_loss
-        ├── hybrid_segmentor_DICE.ckpt  (Dice Loss) -> λ = 0
-        ├── hybrid_segmentor_BCE_1.ckpt (BCE-DICE loss with λ = 0.1 ) 
-        ├── hybrid_segmentor_BCE_2.ckpt (BCE-DICE loss with λ = 0.2 )
-        ├── hybrid_segmentor_BCE_3.ckpt (BCE-DICE loss with λ = 0.3 )
-        ├── hybrid_segmentor_BCE_4.ckpt (BCE-DICE loss with λ = 0.4 )
-        ├── hybrid_segmentor_BCE_5.ckpt (BCE-DICE loss with λ = 0.5 )
-        ├── hybrid_segmentor_BCE_6.ckpt (BCE-DICE loss with λ = 0.6 )
-        ├── hybrid_segmentor_BCE_7.ckpt (BCE-DICE loss with λ = 0.7 )
-        ├── hybrid_segmentor_BCE_8.ckpt (BCE-DICE loss with λ = 0.8 )
-        ├── hybrid_segmentor_BCE_9.ckpt (BCE-DICE loss with λ = 0.9 )
-        ├── hybrid_segmentor_BCE.ckpt   (BCE loss) -> λ = 1
-        └── hybrid_segmentor_recall.ckpt(Recall Loss)
+        ├── hybrid_segmentor_DICE.ckpt    (Dice Loss) -> λ = 0
+        ├── hybrid_segmentor_BCE_1.ckpt   (BCE-DICE loss with λ = 0.1 ) 
+        ├── hybrid_segmentor_BCE_2.ckpt   (BCE-DICE loss with λ = 0.2 )
+        ├── hybrid_segmentor_BCE_3.ckpt   (BCE-DICE loss with λ = 0.3 )
+        ├── hybrid_segmentor_BCE_4.ckpt   (BCE-DICE loss with λ = 0.4 )
+        ├── hybrid_segmentor_BCE_5.ckpt   (BCE-DICE loss with λ = 0.5 )
+        ├── hybrid_segmentor_BCE_6.ckpt   (BCE-DICE loss with λ = 0.6 )
+        ├── hybrid_segmentor_BCE_7.ckpt   (BCE-DICE loss with λ = 0.7 )
+        ├── hybrid_segmentor_BCE_8.ckpt   (BCE-DICE loss with λ = 0.8 )
+        ├── hybrid_segmentor_BCE_9.ckpt   (BCE-DICE loss with λ = 0.9 )
+        ├── hybrid_segmentor_BCE.ckpt     (BCE loss) -> λ = 1
+        └── hybrid_segmentor_recall.ckpt  (Recall Loss)
 ```
 #### If you use our model in your research, please cite "Hybrid-Segmentor Reference" below.
 

@@ -11,7 +11,8 @@ IMAGE_WIDTH = 256
 mu = [0.51789941, 0.51360926, 0.547762]
 sd  = [0.1812099,  0.17746663, 0.20386334]
 train_transform = A.Compose(
-    [
+    [    
+        A.Resize(height=IMAGE_HEIGHT, width=IMAGE_WIDTH),
         A.Normalize(
             mean=mu,
             std=sd,

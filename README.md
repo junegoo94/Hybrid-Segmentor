@@ -8,7 +8,7 @@
 
 **Hybrid-Segmentor model weight**: 
 
-1. Best Model: [Best model_weight](https://1drv.ms/u/s!AtFigR8so_Ssr74icViwvNvnpzdbVg?e=JB4dEO)
+1. Best Model: [Best model weight](https://1drv.ms/u/s!AtFigR8so_Ssr74icViwvNvnpzdbVg?e=JB4dEO)
 2. All weights: [models weight folder](https://1drv.ms/u/s!AtFigR8so_Ssr74kDbpbEjUGqx1Z3A?e=uhRgPu)
    
 **All weights Folder Structure:**

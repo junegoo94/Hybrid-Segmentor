@@ -69,7 +69,7 @@ Example crack images segmented by our model and benchmarked models. The red oval
    
    ***If you use our model or dataset, please cite the following***:
 ```
-@misc{goo2024hybridsegmentorhybridapproachautomated,
+@misc{goo2024hybridsegmentor,
       title={Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure}, 
       author={June Moh Goo and Xenios Milidonis and Alessandro Artusi and Jan Boehm and Carlo Ciliberto},
       year={2024},

@@ -2,10 +2,9 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hybrid-segmentor-a-hybrid-approach-to/crack-segmentation-on-crackvision12k)](https://paperswithcode.com/sota/crack-segmentation-on-crackvision12k?p=hybrid-segmentor-a-hybrid-approach-to)
 
 **Access to Paper**
-[ArXiv](https://arxiv.org/abs/2409.02866)
-[![Static Badge](https://img.shields.io/badge/Paper-arXiv-red)]([https://arxiv.org/abs/2409.02866](https://arxiv.org/abs/2409.02866)) &nbsp;
-[![Static Badge](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2404.09921) &nbsp;
-[![Static Badge](https://img.shields.io/badge/Dataset-FI_London-green)](https://rdr.ucl.ac.uk/articles/dataset/FI-London/25592799) &nbsp;
+
+[![Static Badge](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2409.02866) &nbsp;
+[![Static Badge](https://img.shields.io/badge/Dataset-CrackVision12K-green)](https://rdr.ucl.ac.uk/articles/dataset/CrackVision12K/26946472?file=49023628) &nbsp;
 
 ## 1. Model Architecture
 ![](./figures/model_architecture.png)

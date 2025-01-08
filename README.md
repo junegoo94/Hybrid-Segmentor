@@ -1,4 +1,4 @@
-## 	Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure - [STILL UPDATING CODES]
+## 	Hybrid-Segmentor: Hybrid Approach for Automated Fine-Grained Crack Segmentation in Civil Infrastructure - Automation in Construction [IF:9.6]
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hybrid-segmentor-a-hybrid-approach-to/crack-segmentation-on-crackvision12k)](https://paperswithcode.com/sota/crack-segmentation-on-crackvision12k?p=hybrid-segmentor-a-hybrid-approach-to)
 
 [![Static Badge](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2409.02866) &nbsp;

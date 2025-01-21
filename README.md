@@ -70,6 +70,18 @@ Example crack images segmented by our model and benchmarked models. The red oval
    
    ***If you use our model or dataset, please cite the following***:
 ```
+@article{GOO2025105960,
+      title = {Hybrid-Segmentor: Hybrid approach for automated fine-grained crack segmentation in civil infrastructure},
+      journal = {Automation in Construction},
+      volume = {170},
+      pages = {105960},
+      year = {2025},
+      issn = {0926-5805},
+      doi = {https://doi.org/10.1016/j.autcon.2024.105960},
+      url = {https://www.sciencedirect.com/science/article/pii/S0926580524006964},
+      author = {June Moh Goo and Xenios Milidonis and Alessandro Artusi and Jan Boehm and Carlo Ciliberto},
+      keywords = {Deep learning applications, Semantic segmentation, Convolutional neural networks, Transformers, Hybrid approach, Crack detection, Crack dataset, Fine-grained details},
+}
 @misc{goo2024hybridsegmentor,
       title={Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure}, 
       author={June Moh Goo and Xenios Milidonis and Alessandro Artusi and Jan Boehm and Carlo Ciliberto},
@@ -78,19 +90,6 @@ Example crack images segmented by our model and benchmarked models. The red oval
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2409.02866}, 
-}
-
-@article{GOO2025105960,
-title = {Hybrid-Segmentor: Hybrid approach for automated fine-grained crack segmentation in civil infrastructure},
-journal = {Automation in Construction},
-volume = {170},
-pages = {105960},
-year = {2025},
-issn = {0926-5805},
-doi = {https://doi.org/10.1016/j.autcon.2024.105960},
-url = {https://www.sciencedirect.com/science/article/pii/S0926580524006964},
-author = {June Moh Goo and Xenios Milidonis and Alessandro Artusi and Jan Boehm and Carlo Ciliberto},
-keywords = {Deep learning applications, Semantic segmentation, Convolutional neural networks, Transformers, Hybrid approach, Crack detection, Crack dataset, Fine-grained details},
 }
 ```
 

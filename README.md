@@ -52,15 +52,18 @@ The refined dataset is developed with 13 publicly available datasets that have b
 ## 3. Set-Up
 1. Pytorch 2.5.0 + CUDA 11.8
 2. Pytorch Lightning 2.4.0
+
 **Training**
 Before training, change variables such as dataset path, batch size, etc in config.py. 
 ```
+cd Hybrid_Segmentor
 python trainer.py
 ```
 
 **Testing**
 Before testing, change the model name and output folder path.
 ```
+cd Hybrid_Segmentor
 python test.py
 ```
 ## 4. Results

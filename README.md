@@ -50,6 +50,8 @@ The refined dataset is developed with 13 publicly available datasets that have b
 #### To download the dataset from the link, please cite "Hybrid-Segmentor & CrackVision12K" below.
 
 ## 3. Set-Up
+1. Pytorch 2.0.5 + CUDA 11.8
+2. Pytorch Lightning 2.4.0
 **Training**
 Before training, change variables such as dataset path, batch size, etc in config.py. 
 ```

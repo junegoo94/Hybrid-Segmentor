@@ -1,0 +1,11 @@
+albumentations==1.4.18
+einops==0.8.0
+matplotlib==3.10.0
+numpy==2.2.2
+Pillow==11.1.0
+pytorch_lightning==2.4.0
+scikit_learn==1.6.1
+torch==2.5.0
+torchmetrics==1.4.2
+torchsummary==1.5.1
+torchvision==0.20.0
